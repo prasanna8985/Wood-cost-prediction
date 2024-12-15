@@ -1,0 +1,101 @@
+Wood Type,Length (cm),Width (cm),Thickness (cm),Use Case,Durability
+Mahogany,203,22,3.2,Decorative items,High
+Spruce,92,28,1.9,Crafts,High
+Ash,233,36,3.3,Cutting boards,Very High
+Walnut,200,47,2.0,Shelves,Very High
+Redwood,204,13,2.5,Tool handles,High
+Elm,154,42,3.1,Crafts,High
+Beech,232,56,2.8,Cutting boards,High
+Teak,128,10,1.4,Tool handles,High
+Cherry,193,18,3.5,Shelves,High
+Beech,111,40,1.5,Cabinetry,High
+Mahogany,125,25,2.9,Furniture,High
+Bamboo,127,30,1.5,Tool handles,Medium
+Elm,209,17,4.4,Shelves,Medium
+Cedar,88,24,2.4,Cabinetry,Very High
+Spruce,137,49,3.4,Cutting boards,High
+Elm,131,30,3.5,Cabinetry,High
+Ebony,165,36,1.8,Crafts,Medium
+Elm,109,23,1.5,Tool handles,Very High
+Birch,112,22,3.9,Crafts,Very High
+Elm,130,28,1.7,Tool handles,Very High
+Alder,215,57,1.8,Furniture,Very High
+Walnut,166,43,2.0,Panels,Medium
+Maple,233,42,2.3,Panels,Medium
+Bamboo,160,10,3.7,Panels,Medium
+Birch,161,14,3.1,Doors,High
+Ash,238,12,1.2,Doors,Medium
+Bamboo,143,17,2.0,Furniture,High
+Alder,154,35,2.1,Shelves,Very High
+Cherry,236,25,2.1,Cutting boards,Very High
+Birch,248,14,1.5,Doors,High
+Alder,119,28,1.2,Doors,Very High
+Mahogany,142,41,3.1,Panels,Very High
+Bamboo,106,14,1.8,Shelves,Medium
+Poplar,224,51,1.5,Shelves,Very High
+Birch,134,59,3.8,Panels,Very High
+Oak,123,54,3.8,Doors,Very High
+Beech,188,47,1.3,Decorative items,Very High
+Cedar,146,43,3.1,Furniture,High
+Maple,174,38,2.4,Shelves,Medium
+Birch,192,41,1.3,Cabinetry,High
+Pine,235,59,4.1,Crafts,Very High
+Acacia,172,53,4.2,Crafts,Medium
+Ebony,230,60,2.5,Tool handles,High
+Cherry,155,51,4.5,Tool handles,Medium
+Acacia,144,37,2.1,Panels,High
+Elm,157,58,2.1,Shelves,High
+Alder,137,31,4.0,Crafts,Very High
+Spruce,99,14,2.9,Panels,High
+Bamboo,237,31,1.8,Doors,High
+Mahogany,159,32,4.0,Shelves,High
+Elm,228,36,3.0,Shelves,Medium
+Maple,202,45,2.4,Cabinetry,Very High
+Ebony,177,53,3.3,Furniture,High
+Fir,168,20,2.3,Crafts,Very High
+Acacia,183,14,2.7,Decorative items,High
+Poplar,95,44,1.5,Crafts,High
+Ash,85,54,3.5,Doors,High
+Bamboo,95,14,2.4,Panels,Medium
+Spruce,135,47,1.4,Cutting boards,High
+Cherry,224,35,1.0,Doors,Medium
+Spruce,169,33,1.8,Cutting boards,Medium
+Teak,99,13,4.1,Decorative items,High
+Teak,99,20,1.7,Shelves,Medium
+Oak,121,14,1.5,Cabinetry,Medium
+Alder,164,56,1.6,Crafts,Very High
+Ebony,119,14,1.6,Cutting boards,High
+Birch,123,53,4.0,Crafts,Medium
+Pine,185,49,4.0,Doors,Very High
+Teak,87,41,2.1,Crafts,High
+Walnut,175,20,1.5,Tool handles,Medium
+Walnut,146,53,1.4,Tool handles,Very High
+Walnut,157,25,2.2,Cutting boards,Medium
+Acacia,118,59,1.8,Cabinetry,Medium
+Alder,208,40,3.2,Panels,High
+Teak,170,60,2.8,Panels,Very High
+Bamboo,106,23,1.7,Cabinetry,Medium
+Maple,184,25,3.9,Shelves,High
+Acacia,205,18,1.7,Cutting boards,High
+Ash,186,36,1.9,Cabinetry,High
+Pine,243,57,3.2,Cutting boards,High
+Beech,241,13,2.9,Crafts,Very High
+Mahogany,229,50,4.5,Cabinetry,Very High
+Ash,182,47,3.0,Doors,Very High
+Spruce,160,31,1.4,Furniture,High
+Cedar,122,37,2.3,Tool handles,High
+Fir,155,58,1.5,Crafts,High
+Ebony,127,59,1.5,Shelves,Very High
+Poplar,230,33,2.5,Panels,Very High
+Beech,229,23,2.6,Cutting boards,Very High
+Spruce,85,28,2.0,Decorative items,Very High
+Maple,176,48,3.7,Doors,Very High
+Birch,135,32,3.4,Cutting boards,Medium
+Alder,133,42,3.9,Cabinetry,High
+Elm,235,23,2.5,Crafts,High
+Birch,85,36,3.7,Shelves,High
+Oak,184,11,3.4,Cutting boards,Very High
+Elm,224,16,1.5,Tool handles,Very High
+Cedar,238,24,1.9,Tool handles,Medium
+Pine,227,50,1.5,Doors,Very High
+Cherry,172,33,2.9,Furniture,High
